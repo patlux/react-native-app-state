@@ -1,5 +1,6 @@
 {
   "name": "react-native-app-state",
+  "description": "A declarative way to use react-native's AppState",
   "version": "1.0.1",
   "main": "src/index.js",
   "repository": "git+https://github.com/patlux/react-native-app-state.git",
