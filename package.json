@@ -17,5 +17,6 @@
   "peerDependencies": {
     "react": "^16.3.0",
     "react-native": "^0.55.3"
-  }
+  },
+  "keywords": ["React", "Native", "AppState", "Context"]
 }
