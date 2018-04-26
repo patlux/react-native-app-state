@@ -1,6 +1,6 @@
 {
   "name": "react-native-app-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "repository": "git+https://github.com/patlux/react-native-app-state.git",
   "author": "Patrick Wozniak <email@patwoz.de>",
