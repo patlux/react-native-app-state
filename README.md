@@ -72,3 +72,7 @@ class App extends React.PureComponent {
 
 * [ ] Write tests
 * [ ] Add/Replace example with [expo](https://expo.io/)
+* [ ] Add usage examples
+  * [x] component based `<AppState.Active>`, `<AppState.Inactive>`, `<AppState.Background>`
+  * [ ] `<AppState.Foreground>` alias for `<AppState.Active>` and `<AppState.Inactive>`
+  * [x] with render prop `<AppState>{({ appState }) => (<View />)}</AppState>`
