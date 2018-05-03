@@ -5,6 +5,12 @@
 `react-native-app-state` is a declarative way to use react-native's [AppState](https://facebook.github.io/react-native/docs/appstate.html).
 Internally it uses the new [React 16.3 Context API](https://reactjs.org/docs/context.html).
 
+![react-native-app-state](https://user-images.githubusercontent.com/4481570/39601909-d767fe2e-4f23-11e8-80bd-5b9ddf2e891b.png)
+
+I think you got it. It's definitely easier than:
+
+![react-native-app-state](https://user-images.githubusercontent.com/4481570/39603516-09774b0e-4f29-11e8-9ecd-9483d9e2090e.png)
+
 ## Getting started
 
 ### Requirements
@@ -64,5 +70,5 @@ class App extends React.PureComponent {
 
 ## ToDO
 
-* [ ] Add support for web
-* [ ] Add tests
+* [ ] Write tests
+* [ ] Add/Replace example with [expo](https://expo.io/)
