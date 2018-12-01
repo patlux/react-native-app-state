@@ -32,7 +32,6 @@ const withStateListener = WrappedComponent =>
       // EVENTS
 
       addAppStateListener = () => {
-        this.removeAppStateListener();
         RNAppState.addEventListener('change', this.onAppStateChange);
       };
 
